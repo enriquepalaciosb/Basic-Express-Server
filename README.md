@@ -51,6 +51,6 @@ To do:
 
 ## Acknowledgements
 
-- This project was based on [this tutorial](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/18125183#overview).
+- This project was based on [these materials](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 - Many thanks to The App Brewery
 
