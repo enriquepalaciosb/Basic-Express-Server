@@ -5,7 +5,7 @@ app.get("/", function(req, res){
   res.send("<h1>Hello, world!</h1>");
 });
 app.get("/contact", function(req, res){
-  res.send("Contact me @: enriquegpalacios@gmail.com");
+  res.send("Contact me @: [INSERT EMAIL HERE]@gmail.com");
 });
 app.get("/about", function(req, res){
   res.send("Hello, my name is Enrique and I love Web Development!");
