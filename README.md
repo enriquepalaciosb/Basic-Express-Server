@@ -1,4 +1,51 @@
-<h1>Welcome!</h1>
-<p>Here's what I have been working on so far with Node and incoperating Express</p>
-<p>Most of what you will see here is basic template for the Node and Express files I worked with</p>
-<p>NOTE: YOU WILL NEED AN APPLCATION SUCH AS HYPER TO RUN THIS CORRECTLY</p>
+# Express Server
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+
+
+## General Information
+- This project is my attempt of making a calculator and testing out the server I have created with Node.
+
+## Technologies Used
+Project is created with:
+* Node.JS
+* HTML
+* Express
+
+## Features
+List the ready features here:
+- Can do addition calculations
+- Calculate your BMI
+
+## Usage
+Demonstrate simple tasks by utilizng Node and Express.
+Must use the following package:
+
+`$ npm express`
+
+
+## Project Status
+Project is: _in progress_ 
+
+
+## Room for Improvement
+
+Room for improvement:
+- Stylings
+- Responsiveness
+
+To do:
+- Implement BS4
+- Navigation
+
+## Acknowledgements
+- This project was based on [this tutorial](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/18125183#overview).
+- Many thanks to The App Brewery
+
