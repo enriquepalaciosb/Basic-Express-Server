@@ -13,7 +13,7 @@
 
 ## General Information
 
-- This project is my attempt of making a calculator and testing out the server I have created with Node.
+- This project is a basic testing of Node with Express.
 
 ## Technologies Used
 
